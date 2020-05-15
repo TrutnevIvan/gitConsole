@@ -1,3 +1,5 @@
+/*studying programm*/
+
 #include <iostream>
 
 int main(){
