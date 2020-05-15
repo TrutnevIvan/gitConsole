@@ -9,7 +9,11 @@ int main(){
     std::cin >> x2;
     std::cout << "The sum = " << x1+x2 << std::endl;
     std::cout << "The sub = " << x1-x2 << std::endl;
+<<<<<<< HEAD
     std::cout << "The prod = " << x1*x2 << std::endl;
+=======
+    std::cout << "The division = " << x1/x2 << std::endl;
+>>>>>>> DIVISION
 
     return 0;
 }
